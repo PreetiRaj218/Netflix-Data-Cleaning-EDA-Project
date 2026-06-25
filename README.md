@@ -55,14 +55,14 @@ df.duplicated().sum()
 No duplicate records found.
 
 # Skills Demonstrated
-Python
-Pandas
-Data Cleaning
-Missing Value Treatment
-Datetime Handling
-Exploratory Data Analysis (EDA)
-Business Insights Generation
-Data Visualization
+Python,
+Pandas,
+Data Cleaning,
+Missing Value Treatment,
+Datetime Handling,
+Exploratory Data Analysis (EDA),
+Business Insights Generation,
+Data Visualization,
 
  This project demonstrates end-to-end data cleaning and exploratory data analysis using Python and Pandas. The analysis focuses on identifying content trends, distribution patterns, and growth of Netflix's content catalog.
 
