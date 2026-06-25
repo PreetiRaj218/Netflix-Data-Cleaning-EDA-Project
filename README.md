@@ -64,7 +64,7 @@ Exploratory Data Analysis (EDA)
 Business Insights Generation
 Data Visualization
 
-# This project demonstrates end-to-end data cleaning and exploratory data analysis using Python and Pandas. The analysis focuses on identifying content trends, distribution patterns, and growth of Netflix's content catalog.
+ This project demonstrates end-to-end data cleaning and exploratory data analysis using Python and Pandas. The analysis focuses on identifying content trends, distribution patterns, and growth of Netflix's content catalog.
 
 ## Author
 Preeti Raj
