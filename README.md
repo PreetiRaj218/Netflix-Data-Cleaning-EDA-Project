@@ -1,6 +1,6 @@
 # Netflix-Data-Cleaning-EDA-Project
 
-Objective
+# Objective
 
 Analyze Netflix content to understand:
 
@@ -9,18 +9,18 @@ Growth trends
 Content types
 Country-wise contribution
 
-Business Questions
-Q1. What is the distribution of Movies and TV Shows on Netflix?
+# Business Questions
+# Q1. What is the distribution of Movies and TV Shows on Netflix?
 
 Analysis
 
 Movies: 6131
 TV Shows: 2666
 
-Insight
+# Insight
 
 Movies dominate the Netflix catalog, accounting for approximately 70% of the content. This suggests that Netflix has historically focused more on movie-based content than television series.
-Q2. How has Netflix's content library grown over time?
+# Q2. How has Netflix's content library grown over time?
 
 Analysis
 
@@ -28,17 +28,17 @@ Analysis
 2020 = 1878 titles
 2021 = 1498 titles
 
-Insight
+# Insight
 
 Netflix experienced rapid growth between 2016 and 2019. Content additions peaked in 2019, indicating aggressive content expansion during this period.
 
-Q3. Which years saw the highest content additions?
+# Q3. Which years saw the highest content additions?
 
-Insight
+# Insight
 
 The highest number of titles were added in 2019. This may reflect Netflix's strategy to expand its global content library and strengthen market presence.
 
-Data Cleaning Performed
+# Data Cleaning Performed
 Missing Values
 Column	Action
 director	Filled with "Unknown"
@@ -54,7 +54,7 @@ df.duplicated().sum()
 
 No duplicate records found.
 
-Skills Demonstrated
+# Skills Demonstrated
 Python
 Pandas
 Data Cleaning
@@ -64,7 +64,7 @@ Exploratory Data Analysis (EDA)
 Business Insights Generation
 Data Visualization
 
-This project demonstrates end-to-end data cleaning and exploratory data analysis using Python and Pandas. The analysis focuses on identifying content trends, distribution patterns, and growth of Netflix's content catalog.
+# This project demonstrates end-to-end data cleaning and exploratory data analysis using Python and Pandas. The analysis focuses on identifying content trends, distribution patterns, and growth of Netflix's content catalog.
 
 ## Author
 Preeti Raj
